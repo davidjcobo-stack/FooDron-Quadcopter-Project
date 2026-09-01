@@ -177,7 +177,11 @@ The original project report and supporting documentation are available in the [`
 
 This project gave me practical experience in taking an engineering concept from individual components to a functioning physical prototype.
 
-It required combining mechanical assembly, electronics, soldering, wiring, configuration, troubleshooting and real-world testing. The project also reinforced the importance of iterative development: assembling, testing, identifying problems and making improvements based on actual system behaviour.
+I learned how mechanical, electrical and control systems must work together as an integrated system, and how a problem in one area can affect the behaviour of the whole prototype.
+
+The project also strengthened my practical skills in assembly, soldering, wiring, system integration, configuration, troubleshooting and progressive testing.
+
+Most importantly, I learned the value of an iterative engineering process: build, test, observe, identify problems, make improvements and test again.
 
 Potential future development could include:
 
