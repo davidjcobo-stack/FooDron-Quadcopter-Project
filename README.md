@@ -12,6 +12,12 @@ The project involved assembling the quadcopter frame, installing the propulsion 
 
 The main objective was to develop a functional prototype capable of flying while exploring the concept of transporting a small payload for people with reduced mobility.
 
+## My Role
+
+I personally assembled the quadcopter frame, installed the brushless motors and ESCs, carried out soldering and electrical wiring, integrated the radio receiver, GPS and flight-control electronics, configured the system using ArduPilot / Mission Planner, and participated in the progressive testing of the prototype.
+
+The project required me to combine mechanical assembly, electronics, troubleshooting and practical testing, learning through an iterative process of building, checking, identifying problems and making improvements.
+
 ## Engineering Areas
 
 - Mechanical assembly
