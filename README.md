@@ -123,7 +123,19 @@ The completed prototype integrates the frame, propulsion system, flight electron
 
 ## Testing and Validation
 
-Testing was carried out progressively, from electronic and motor-response checks to complete flight tests.
+Testing was carried out progressively rather than attempting a complete flight from the beginning. The prototype was first checked at subsystem level and then moved through increasingly complex functional and flight tests.
+
+The validation process included:
+
+- Radio and electronics checks
+- Individual motor-response testing
+- Propulsion-system verification
+- Flight-controller configuration and calibration
+- Initial low-altitude flight testing
+- Outdoor flight testing
+- Observation of flight behaviour and pilot response
+
+Each stage was used to verify the previous integration work before progressing to the next one.
 
 ### Radio and electronics test
 
@@ -141,7 +153,15 @@ Testing was carried out progressively, from electronic and motor-response checks
 
 [▶ Watch outdoor flight test](videos/02-outdoor-flight-test.mp4)
 
-The flight-testing stage demonstrated that the prototype was capable of taking off and flying. Testing also revealed aspects of flight behaviour and control that could be further refined in future iterations.
+The flight-testing stage confirmed that the prototype was capable of taking off and flying successfully.
+
+During one of the tests, manual control input was released before the flight sequence had been completed, resulting in a ground impact. The incident was therefore treated as part of the testing and operational learning process rather than as an unexplained technical failure.
+
+### Engineering Iteration
+
+The testing phase demonstrated that successful prototype development depends not only on the hardware and electronics, but also on structured test procedures and controlled operation.
+
+Future iterations would include more systematic flight-test protocols, controlled take-off and landing procedures, additional payload testing, cable-management improvements and further verification of flight modes and safety functions.
 
 ## Project Presentation
 
@@ -159,18 +179,13 @@ This project gave me practical experience in taking an engineering concept from 
 
 It required combining mechanical assembly, electronics, soldering, wiring, configuration, troubleshooting and real-world testing. The project also reinforced the importance of iterative development: assembling, testing, identifying problems and making improvements based on actual system behaviour.
 
-## Future Improvements
-
 Potential future development could include:
 
+- More systematic pre-flight and flight-test procedures
+- Additional payload-release testing
 - Improved cable management and component packaging
-- Further flight-controller tuning
-- More systematic payload testing
-- Weight-distribution optimisation
-- Additional flight testing
-- Improved landing behaviour
-- Further development of the delivery mechanism
-
+- Further verification of flight modes and safety functions
+- More detailed documentation of test results and prototype iterations
 ---
 
 **Built as a personal engineering project by David Jorge Cobo.**
